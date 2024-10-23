@@ -13,12 +13,12 @@ Mis intereses incluyen la **automatización de procesos**, la **seguridad inform
 Algunos de los conocimientos y tecnologías que manejo son:
 
 - **Sistemas Operativos**: Administración de Windows Server, Linux (Ubuntu, CentOS, Debian)
-- **Virtualización y Contenedores**: VMware, VirtualBox, Proxmox, Docker
+- **Virtualización y Contenedores**: VirtualBox, Proxmox, Docker
 - **Redes**: Configuración de dispositivos de red (routers, switches), VLAN, protocolos TCP/IP
 - **Scripting**: Bash, PowerShell
-- **Bases de Datos**: MySQL, PostgreSQL
+- **Bases de Datos**: MySQL
 - **Ciberseguridad**: Implementación de cortafuegos, auditoría de seguridad, herramientas de monitoreo
-- **Automatización**: Ansible, scripts de automatización en Linux y Windows
+- **Automatización**: Scripts de automatización en Linux y Windows
 - **Otras herramientas**: Git, Wireshark, Zabbix, Nagios
 
 ## Proyectos
