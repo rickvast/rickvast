@@ -12,7 +12,7 @@ Mis intereses incluyen la **automatización de procesos**, la **seguridad inform
 
 Algunos de los conocimientos y tecnologías que manejo son:
 
-- **Sistemas Operativos**: Administración de Windows Server, Linux (Ubuntu, CentOS, Debian)
+- **Sistemas Operativos**: Administración de Windows y Linux 
 - **Virtualización y Contenedores**: VirtualBox, Proxmox, Docker
 - **Redes**: Configuración de dispositivos de red (routers, switches), VLAN, protocolos TCP/IP
 - **Scripting**: Bash, PowerShell
